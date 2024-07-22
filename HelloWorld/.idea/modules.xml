@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JustLearing!.iml" filepath="$PROJECT_DIR$/JustLearing!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LearningString/LearningString.iml" filepath="$PROJECT_DIR$/../LearningString/LearningString.iml" />
     </modules>
   </component>
 </project>
