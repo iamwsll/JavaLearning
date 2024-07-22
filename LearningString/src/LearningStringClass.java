@@ -1,4 +1,4 @@
-public class LearningString
+public class LearningStringClass
 {
     public static void main(String[] args)
     {

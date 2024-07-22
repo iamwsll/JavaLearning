@@ -1,7 +1,7 @@
 //This is a simple program that prints "Hello,World!"to the console.
 //And this is also a program that demonstrates some basic Java syntax（句法规则）.
 //I just record the syntax that is different from C++.
-public class HelloWorld
+public class HelloWorldClass
 {
 
     public static void main(String[] args)
