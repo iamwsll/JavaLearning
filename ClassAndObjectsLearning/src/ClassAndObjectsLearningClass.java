@@ -18,6 +18,7 @@ public class ClassAndObjectsLearningClass
         //上面这句话实际上也是类似于c++的Date *birthday = nullptr;
         //因此java中的Date today = new Date();与c++的Date *today = new Date();是等价的
         //因此c++中的深拷贝在java中必须通过clone()方法来实现
+        //java中的对象一律在堆上分配内存，因此不需要考虑栈上的问题
 
         //LocalDate类
         LocalDate today2 = LocalDate.now();
