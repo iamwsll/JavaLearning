@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayLearning/ArrayLearning.iml" filepath="$PROJECT_DIR$/ArrayLearning/ArrayLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigNum/BigNum.iml" filepath="$PROJECT_DIR$/BigNum/BigNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearning.iml" filepath="$PROJECT_DIR$/.idea/JavaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningIO/LearningIO.iml" filepath="$PROJECT_DIR$/LearningIO/LearningIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearningString/LearningString.iml" filepath="$PROJECT_DIR$/LearningString/LearningString.iml" />
+    </modules>
+  </component>
+</project>
